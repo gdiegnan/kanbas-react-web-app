@@ -1,0 +1,49 @@
+.wd-flex-row-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+#green-button {
+    background-color: green;
+}
+
+.button-icon {
+    margin-right: 5px;
+}
+
+.course-status-button {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 100%;
+    text-align: left;
+}
+
+.home-right-item {
+    margin-top: 15px;
+}
+
+.to-do-item {
+    color: red;
+    margin: 5px;
+}
+
+.side-list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+#hamburger {
+    color: red;
+    text-decoration: none;
+    font-size: 25px;
+    float: left;
+    padding: 10px;
+}
+
+#chevron {
+    color: red;
+    text-decoration: none;
+    font-size: 25px;
+    float: right;
+    padding: 10px;
+}
