@@ -1,0 +1,15 @@
+.CourseHeader {
+    color: red;
+    font-family: Fira Mono, sans-serif;
+}
+
+#CourseTitle {
+    font-size: calc(1rem + 0.5vw);
+    margin: 0.5rem;
+}
+
+.breadcrumbLine {
+    width: 97%;
+    margin-left: 0.7rem;
+    margin-right: 1.5rem;
+}

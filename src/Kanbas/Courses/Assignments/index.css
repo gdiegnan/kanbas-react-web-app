@@ -1,0 +1,39 @@
+#assignmentIcon {
+    color: green;
+    margin-right: 0.5em;
+}
+
+#assignmentTitle {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+#assignmentTitle:hover {
+    text-decoration: underline;
+}
+
+.buttons {
+    margin: 0.5rem;
+    display: flex;
+}
+
+.button {
+    margin-left: 0.1em;
+    border: 1px solid grey;
+    border-radius: 3px;
+    font-weight: 300;
+}
+
+.buttons .searchInput {
+    float: left;
+}
+
+.buttons .rightSideButtons {
+    float: right;
+}
+
+#assignmentButton {
+    color: white;
+    background-color: red;
+}

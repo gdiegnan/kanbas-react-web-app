@@ -1,0 +1,21 @@
+.course-status-button {
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 0.25rem;
+    margin: 2px;
+    width: 225px;
+    text-align: left;
+}
+
+.to-do-item {
+    color: red;
+}
+
+.numberIcon {
+    font-size: 1.5em;
+    margin-right: 0.1rem;
+}
+
+#todo {
+    margin-top: 10px;
+}
