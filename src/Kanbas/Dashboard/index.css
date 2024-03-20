@@ -1,0 +1,26 @@
+.courseEditButtons {
+    text-align: right;
+    float: right;
+  }
+
+.green-button {
+    background-color: green;
+    --bs-btn-hover-bg: darkgreen;
+    --bs-btn-active-bg: darkgreen;
+    --bs-btn-border-color: green;
+    --bs-btn-hover-border-color: darkgreen;
+    --bs-btn-active-border-color: darkgreen;
+}
+
+.red-button {
+    background-color: red;
+    --bs-btn-hover-bg: darkred;
+    --bs-btn-active-bg: darkred;
+    --bs-btn-border-color: red;
+    --bs-btn-hover-border-color: darkred;
+    --bs-btn-active-border-color: darkred;
+}
+
+.go-button {
+    float: left;
+}
